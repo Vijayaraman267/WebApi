@@ -10,7 +10,7 @@ namespace EmployeeService1.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "Home P age";
 
             return View();
         }
